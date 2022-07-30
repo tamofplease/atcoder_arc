@@ -1,0 +1,14 @@
+# デフォルト設定
+BasedOnStyle:  Google
+# インデント幅
+IndentWidth: 4
+# 言語
+Language: Cpp
+Standard: Auto
+# 1行あたりの
+ColumnLimit: 120
+# 改行コード
+UseCRLF: false
+# 個別の設定項目を以下似追加
+# AccessModifierOffset: -4
+
